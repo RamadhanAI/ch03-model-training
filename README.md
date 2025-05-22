@@ -78,3 +78,4 @@ Built as part of Applied AI and MLOps: From Idea to Deployment.
 🔗 License
 
 MIT License
+(https://github.com/RamadhanAi/ch03-model-training/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/RamadhanAi/ch03-model-training/actions/workflows/ci_cd.yml)
